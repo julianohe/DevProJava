@@ -1,3 +1,5 @@
+package br.com.PROJava;
+
 import java.util.Scanner;
 /**
  * Desafio
