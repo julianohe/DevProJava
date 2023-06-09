@@ -19,9 +19,7 @@ public class ProjetoPessoa {
         p3.setSalario(2500.75f);
         p4.setSetor("Estoque");
 
-        p1.receberAumento(550.20f);
-        p2.mudarTrabalho();
-        p4.cancelarMatricula();
+
 
         System.out.println(p1.toString());
         System.out.println(p2.toString());
