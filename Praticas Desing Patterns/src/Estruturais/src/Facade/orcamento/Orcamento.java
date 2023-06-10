@@ -1,6 +1,10 @@
-package Comportamentais.Observer.orcamento;
+package Facade.orcamento;
 
-import Comportamentais.Observer.orcamento.situacao.*;
+import Facade.DomainException;
+import Facade.orcamento.situacao.Aprovado;
+import Facade.orcamento.situacao.EmAnalise;
+import Facade.orcamento.situacao.Reprovado;
+import Facade.orcamento.situacao.SituacaoOrcamento;
 
 import java.math.BigDecimal;
 
@@ -44,10 +48,14 @@ public class Orcamento {
         return situacao;
     }
 
-    public void setSituacao(Finalizado situacao) {
+    public void setSituacao(Aprovado situacao) {
         this.situacao = situacao;
     }
 
     public void setSituacao(Reprovado reprovado) {
+    }
+
+    public boolean isFinalizado() {
+        return false;
     }
 }

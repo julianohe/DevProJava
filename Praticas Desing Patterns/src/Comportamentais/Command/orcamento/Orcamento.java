@@ -44,7 +44,7 @@ public class Orcamento {
         return situacao;
     }
 
-    public void setSituacao(Aprovado situacao) {
+    public void setSituacao(Finalizado situacao) {
         this.situacao = situacao;
     }
 

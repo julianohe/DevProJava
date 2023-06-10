@@ -1,6 +1,10 @@
-package Comportamentais.Observer.orcamento;
+package Proxy.orcamento;
 
-import Comportamentais.Observer.orcamento.situacao.*;
+import Proxy.DomainException;
+import Proxy.orcamento.situacao.Aprovado;
+import Proxy.orcamento.situacao.EmAnalise;
+import Proxy.orcamento.situacao.Reprovado;
+import Proxy.orcamento.situacao.SituacaoOrcamento;
 
 import java.math.BigDecimal;
 
@@ -13,6 +17,9 @@ public class Orcamento {
         this.valor = valor;
         this.quantidadeItens = quantidadeItens;
         this.situacao = new EmAnalise();
+    }
+
+    public Orcamento() {
     }
 
     public void aplicarDescontoExtra() {
@@ -44,10 +51,14 @@ public class Orcamento {
         return situacao;
     }
 
-    public void setSituacao(Finalizado situacao) {
+    public void setSituacao(Aprovado situacao) {
         this.situacao = situacao;
     }
 
     public void setSituacao(Reprovado reprovado) {
+    }
+
+    public boolean isFinalizado() {
+        return false;
     }
 }
