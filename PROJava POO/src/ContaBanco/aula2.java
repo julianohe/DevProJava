@@ -1,6 +1,6 @@
 package ContaBanco;
 
-import br.com.PROJavaPOO.ContaBanco.ContaBanco;
+import ContaBanco.ContaBanco;
 
 public class aula2 {
     public static void main(String[] args) {

@@ -1,8 +1,8 @@
 package Pessoa.ProjetoPessoa;
 
-import br.com.PROJavaPOO.Pessoa.ProjetoPessoa.Pessoa;
+import Pessoa.ProjetoPessoa.Pessoa;
 
-public class Aluno extends Pessoa.ProjetoPessoa.Pessoa.ProjetoPessoa.Pessoa {
+public class Aluno extends Pessoa.ProjetoPessoa.Pessoa{
     private int matricula;
     private String curso;
 

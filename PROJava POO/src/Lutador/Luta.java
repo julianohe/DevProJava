@@ -1,6 +1,6 @@
 package Lutador;
 
-import br.com.PROJavaPOO.Lutador.Lutador;
+import Lutador.Lutador;
 
 import java.util.Random;
 

@@ -1,6 +1,6 @@
 package ProjetoYoutube;
 
-import br.com.PROJavaPOO.ProjetoYoutube.AcoesVideo;
+import ProjetoYoutube.AcoesVideo;
 
 public class Video implements AcoesVideo {
     private String titulo;

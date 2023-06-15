@@ -1,7 +1,7 @@
 package Lutador;
 
-import br.com.PROJavaPOO.Lutador.Luta;
-import br.com.PROJavaPOO.Lutador.Lutador;
+import Lutador.Luta;
+import Lutador.Lutador;
 
 public class UltraEmoljiCombat {
     public static void main(String[] args) {

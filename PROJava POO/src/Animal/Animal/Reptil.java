@@ -1,8 +1,8 @@
 package Animal.Animal;
 
-import br.com.PROJavaPOO.Animal.Animal.Animal;
+import Animal.Animal.Animal;
 
-public class Reptil extends Animal.Animal.Animal.Animal.Animal {
+public class Reptil extends Animal.Animal.Animal {
     private String corEscama;
     @Override
     public void locomover() {

@@ -1,6 +1,6 @@
 package Caneta;
 
-import br.com.PROJavaPOO.Caneta.Caneta01;
+import Caneta.Caneta01;
 
 public class Aula1 {
   public static void main(String[] args) {

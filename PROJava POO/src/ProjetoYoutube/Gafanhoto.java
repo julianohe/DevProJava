@@ -1,6 +1,6 @@
 package ProjetoYoutube;
 
-import br.com.PROJavaPOO.ProjetoYoutube.Pessoa;
+import ProjetoYoutube.Pessoa;
 
 public class Gafanhoto extends Pessoa {
     private String login;

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdbfb4bf-c4b8-45ba-861e-c97ecb5388aa" name="Changes" comment="Praticas basico">
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal/Arara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal/Aula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal/Canguru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal/Cobra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal/Goldfirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal/Manifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal/Peixe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal/Reptil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal/Tartaruga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal01/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal01/Aula01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal01/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal01/Lobo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Animal/Animal01/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Caneta/Aula1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Caneta/Caneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Caneta/Caneta01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/ContaBanco/ContaBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/ContaBanco/aula2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Lutador/Luta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Lutador/Lutador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Lutador/UltraEmoljiCombat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Pessoa/ProgetoPessoa1/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Pessoa/ProgetoPessoa1/Aula11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Pessoa/ProgetoPessoa1/Bolsista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Pessoa/ProgetoPessoa1/Pessoa1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Pessoa/ProgetoPessoa1/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Pessoa/ProgetoPessoa1/Tecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Pessoa/ProgetoPessoa1/Visitante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Pessoa/ProjetoPessoa/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Pessoa/ProjetoPessoa/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Pessoa/ProjetoPessoa/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Pessoa/ProjetoPessoa/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/Pessoa/ProjetoPessoa/ProjetoPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/ProjetoYoutube/AcoesVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/ProjetoYoutube/Gafanhoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/ProjetoYoutube/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/ProjetoYoutube/ProjetoYoutube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/ProjetoYoutube/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROJava POO/src/br/com/PROJavaPOO/ProjetoYoutube/Visualizacao.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QvjWRoLeuHViGqFQhQbG20SSaO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/55169/IdeaProjects/DevProJava",
+    "onboarding.tips.debug.path": "C:/Users/55169/IdeaProjects/DevProJava/PROJava/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.PROJava.OrdemInversa" />
+      <module name="PROJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.PROJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrdemInversa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdbfb4bf-c4b8-45ba-861e-c97ecb5388aa" name="Changes" comment="" />
+      <created>1686240983437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686240983437</updated>
+    </task>
+    <task id="LOCAL-00001" summary="basico">
+      <created>1686241027146</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686241027146</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Praticas basico">
+      <created>1686247094329</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686247094329</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Praticas basico">
+      <created>1686247346921</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686247346921</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Praticas basico">
+      <created>1686247463308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686247463308</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Praticas basico">
+      <created>1686250517899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686250517921</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basico" />
+    <MESSAGE value="Praticas basico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Praticas basico" />
+  </component>
+</project>

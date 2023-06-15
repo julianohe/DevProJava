@@ -1,8 +1,8 @@
 package ProjetoYoutube;
 
-import br.com.PROJavaPOO.ProjetoYoutube.Gafanhoto;
-import br.com.PROJavaPOO.ProjetoYoutube.Video;
-import br.com.PROJavaPOO.ProjetoYoutube.Visualizacao;
+import ProjetoYoutube.Gafanhoto;
+import ProjetoYoutube.Video;
+import ProjetoYoutube.Visualizacao;
 
 public class ProjetoYoutube {
     public static void main(String[] args) throws Exception {

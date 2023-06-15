@@ -1,7 +1,7 @@
 package ProjetoYoutube;
 
-import br.com.PROJavaPOO.ProjetoYoutube.Gafanhoto;
-import br.com.PROJavaPOO.ProjetoYoutube.Video;
+import ProjetoYoutube.Gafanhoto;
+import ProjetoYoutube.Video;
 
 public class Visualizacao {
     private Gafanhoto espectador;
