@@ -1,6 +1,5 @@
 package Composite.orcamento;
 
-import Composite.DomainException;
 import Composite.orcamento.situacao.*;
 
 import java.math.BigDecimal;
@@ -13,7 +12,7 @@ public class Orcamento implements Orcavel {
         private BigDecimal valor = BigDecimal.ZERO;
         private SituacaoOrcamento situacao;
 
-	public Orcamento() {
+	public Orcamento(BigDecimal valorOrcamento, int quantidadeItens) {
             this.situacao = new EmAnalise();
         }
 
