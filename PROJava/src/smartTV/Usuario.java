@@ -1,6 +1,4 @@
-package br.com.PROJava.smartTV;
-
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
+package smartTV;
 
 public class Usuario {
     public static void main(String[] args) throws Exception {

@@ -1,5 +1,3 @@
-package br.com.PROJava;
-
 public class OrdemInversa {
         public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-package br.com.PROJava.smartTV;
+package smartTV;
 
 public class SmartTv {
     boolean ligada = false;

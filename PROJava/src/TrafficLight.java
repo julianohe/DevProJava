@@ -1,4 +1,4 @@
-package br.com.PROJava; /**
+/**
  * Desafio
  **   Crie um programa que simule o comportamento de um semáforo.
  * O usuário deverá inserir um número correspondente à cor do
