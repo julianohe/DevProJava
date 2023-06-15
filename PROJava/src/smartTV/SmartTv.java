@@ -28,8 +28,6 @@ public class SmartTv {
 
     }
 
-
-
     public void ligar(){
         ligada = true;
     }

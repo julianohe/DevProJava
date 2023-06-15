@@ -19,7 +19,7 @@ public class ArrayMultiDimensional {
                 for (int coluna : linha ) {
                     System.out.print(coluna + " ");
                 }
-                System.out.println();
+
             }
 
         }

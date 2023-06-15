@@ -29,6 +29,5 @@ public class TrafficLight {
         } else if (numero > 3) {
             System.out.println("Valor invalido! Digite 1, 2 ou 3 para indicar a cor do semaforo.");
         }
-        //TODO: Crie as condições necessárias para imprimir cada uma das possíveis saídas.
     }
 }

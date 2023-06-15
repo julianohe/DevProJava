@@ -23,7 +23,6 @@ public class LojaGeek {
             System.out.println("MED");
         } else if (media > 7) {
             System.out.println("APR");
-
         }
     }
 }

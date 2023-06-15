@@ -33,7 +33,7 @@ public class Consoantes {
                 System.out.print("Consoantes: ");
                 for ( String consoante  :  consoantes ) {
                     if ( consoante != null)
-                        System.out.print(consoante + " ");
+                        System.out.print(consoante + "  ");
                 }
                 System.out.println("Quantidade de consoantes: " + quantidadeConsoantes);
                 System.out.println(consoantes.length);

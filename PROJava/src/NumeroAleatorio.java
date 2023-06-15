@@ -29,9 +29,6 @@ public class NumeroAleatorio {
                 System.out.print((numero+1) + " ");
             }
 
-
-
-
         }
 
 

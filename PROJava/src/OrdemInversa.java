@@ -3,7 +3,6 @@ public class OrdemInversa {
 
             int [] vetor = {-5, -6, 15, 50, 8, 4};
 
-            //System.out.println(vetor.length);
 
             System.out.println("Vetor:  ");
             int count = 0;

@@ -29,14 +29,12 @@ public class MudancaparaIrlanda {
         } else {
             imposto = 0.15 * salarioBruto;
         }
-        //TODO: Implemente as regras para o cálculo do imposto.
 
         // Cálculo do salário líquido
         double salarioLiquido = salarioBruto - imposto + beneficios;
 
         System.out.printf(" %.2f", salarioLiquido);
 
-        //TODO: Imprimir o salário líquido com 2 casas decimais.
     }
 
 }
