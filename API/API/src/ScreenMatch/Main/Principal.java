@@ -22,7 +22,6 @@
             meuFilme.avalia(10);
             System.out.println("Total de avaliações: " + meuFilme.getTotalDeAvaliacoes());
             System.out.println(meuFilme.pegaMedia());
-            //meuFilme.somaDasAvaliacoes = 10;
             //meuFilme.totalDeAvaliacoes = 1;
             //System.out.println(meuFilme.pegaMedia());
 
