@@ -8,13 +8,14 @@ Java Runtime Environment ou <b>JRE</b>, que agrega a máquina virtual e alguns r
 Java Development Kit ou<b> JDK</b>, que é um conjunto de utilitários que oferece suporte ao desenvolvimento de aplicações.
 No Java, os programas são escritos em um arquivo com a extensão <b>.java</b>, que em um processo posterior serão compilados para arquivos com a extensão <b>.class</b>. Esses, por sua vez, contêm os códigos a serem executados na máquina virtual, os <b>bytecodes.</b>
 
-## Primeiro codígo:
+## Como é desenvolvido a compilação de cada processo.
+
 ## Sinais aritmetico utilizado
 #### exemplo:
 ## Sinais Logicos:
 #### exemplo:
 
-### Ferramenta ultilizada durante deste processo:
+### Plataforma ultilizada durante os projetos:
 
 #### intellij
 
