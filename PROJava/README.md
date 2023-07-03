@@ -10,7 +10,12 @@ No Java, os programas são escritos em um arquivo com a extensão <b>.java</b>, 
 
 ## Como é desenvolvido a compilação de cada processo.
 
-<img src="FIG01_JavaCompilacaoClassesJava.png"alt ="">
+O compilador é responsável por receber o código-fonte, que é escrito por uma pessoa desenvolvedora, e traduzi-lo em código binário, gerando um arquivo executável, que é a aplicação.
+
+Neste modelo, o compilador está intimamente ligado ao sistema operacional, pois ele precisa gerar um código binário compatível com o sistema, que é o que faz a comunicação com o processador.
+
+Para executar o mesmo programa em diferentes sistemas, devido a essa característica, era necessário passar o código-fonte por um outro compilador específico de outro sistema operacional. E ainda assim não era garantido o funcionamento da aplicação, pois muitas bibliotecas utilizadas para o desenvolvimento do programa eram específicas de um sistema operacional e não tinham funcionalidade garantida em outros.
+
 ### Plataforma ultilizada durante os projetos:
 
 #### intellij
