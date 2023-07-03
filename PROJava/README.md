@@ -10,7 +10,7 @@ No Java, os programas são escritos em um arquivo com a extensão <b>.java</b>, 
 
 ## Como é desenvolvido a compilação de cada processo.
 
-<img src:FIG01_JavaCompilacaoClassesJava.png>
+<img src="FIG01_JavaCompilacaoClassesJava.png">
 ### Plataforma ultilizada durante os projetos:
 
 #### intellij
