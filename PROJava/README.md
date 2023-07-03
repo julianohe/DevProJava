@@ -10,11 +10,7 @@ No Java, os programas são escritos em um arquivo com a extensão <b>.java</b>, 
 
 ## Como é desenvolvido a compilação de cada processo.
 
-## Sinais aritmetico utilizado
-#### exemplo:
-## Sinais Logicos:
-#### exemplo:
-
+<img src:FIG01_JavaCompilacaoClassesJava.png>
 ### Plataforma ultilizada durante os projetos:
 
 #### intellij
@@ -22,3 +18,5 @@ No Java, os programas são escritos em um arquivo com a extensão <b>.java</b>, 
 O <b>IntelliJ</b> IDEA, outra ferramenta escrita totalmente em Java, nos permite escrever, além do próprio Java, códigos em Kotlin, Scala e Groovy. Também objetivando otimizar o trabalho da pessoa desenvolvedora, a IDE oferece IntelliSense, ambiente de depuração e uma série de plugins para ajudar no desenvolvimento do código.
 
 Desenvolvida e mantida pela empresa JetBrains, essa é uma ferramenta proprietária, mas hoje conta com uma versão Community que opera sob a licença Apache 2.0.
+####
+
