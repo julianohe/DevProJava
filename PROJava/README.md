@@ -7,12 +7,17 @@ Máquina Virtual (Java Virtual Machine ou <b>JVM</b>), que garante independênci
 Java Runtime Environment ou <b>JRE</b>, que agrega a máquina virtual e alguns recursos para a execução de aplicações Java; e
 Java Development Kit ou<b> JDK</b>, que é um conjunto de utilitários que oferece suporte ao desenvolvimento de aplicações.
 No Java, os programas são escritos em um arquivo com a extensão <b>.java</b>, que em um processo posterior serão compilados para arquivos com a extensão <b>.class</b>. Esses, por sua vez, contêm os códigos a serem executados na máquina virtual, os <b>bytecodes.</b>
+
 ## Primeiro codígo:
 ## Sinais aritmetico utilizado
 #### exemplo:
 ## Sinais Logicos:
 #### exemplo:
 
-color b{
-color: red;
-}
+### Ferramenta ultilizada durante deste processo:
+
+#### intellij
+
+O <b>IntelliJ</b> IDEA, outra ferramenta escrita totalmente em Java, nos permite escrever, além do próprio Java, códigos em Kotlin, Scala e Groovy. Também objetivando otimizar o trabalho da pessoa desenvolvedora, a IDE oferece IntelliSense, ambiente de depuração e uma série de plugins para ajudar no desenvolvimento do código.
+
+Desenvolvida e mantida pela empresa JetBrains, essa é uma ferramenta proprietária, mas hoje conta com uma versão Community que opera sob a licença Apache 2.0.
