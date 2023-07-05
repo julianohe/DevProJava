@@ -1,5 +1,4 @@
-# Conteúdo Java !!!! 
-## O que é java ?
+# O que é java ?
 O Java, como plataforma de programação, nasceu no ano de 1995 dentro dos laboratórios da empresa Sun Microsystem como resultado de uma extensa pesquisa científica e tecnológica. A plataforma Java entrega um ambiente completo para o desenvolvimento e execução de programas, sendo composta por:
 
 Uma linguagem de programação de alto nível orientada a objetos;
