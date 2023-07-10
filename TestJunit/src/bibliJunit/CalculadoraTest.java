@@ -6,7 +6,7 @@ public class CalculadoraTest {
     private Assertions Assert;
 
     @Test
-    public void deveriaSomarDoisNumerosPositivos() {
+    public void deveriaSomarDoisNumerosPositivos () {
         Calculadora calc = new Calculadora();
         int soma = calc.somar(3, 7);
     }
